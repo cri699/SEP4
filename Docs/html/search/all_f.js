@@ -1,0 +1,23 @@
+var searchData=
+[
+  ['readbaseconfig',['readBaseConfig',['../class_doxygen_window.html#a5ba38d9b1d93fa627bc3b53cdd1dda17',1,'DoxygenWindow']]],
+  ['readfulllog',['ReadFullLog',['../class_doxy_thread_safe_output.html#a40486922d565c2b83934fd8e863bf843',1,'DoxyThreadSafeOutput']]],
+  ['readline',['ReadLine',['../class_doxy_thread_safe_output.html#a84958c6ebe8de10ced504bf5f2fde015',1,'DoxyThreadSafeOutput']]],
+  ['rememberphase',['RememberPhase',['../class_remember_phase.html',1,'RememberPhase'],['../class_game_manager.html#aa852dd1ec95b31034b7fa119fb76613d',1,'GameManager.rememberPhase()'],['../class_score_manager.html#a4b5ffe01a13cbab28a384d7f437071ef',1,'ScoreManager.rememberPhase()']]],
+  ['rememberphase_2ecs',['RememberPhase.cs',['../_remember_phase_8cs.html',1,'']]],
+  ['rememberslot',['rememberSlot',['../class_draggable.html#ae58727f45b54da99d1bd9fd56672af85',1,'Draggable']]],
+  ['removecard',['removeCard',['../class_placing_phase.html#a17e4fbc41bbb9b68574189ea0d13f6f8',1,'PlacingPhase']]],
+  ['resetcardplacingphase',['ResetCardPlacingPhase',['../class_game_manager.html#a5042451b4d99837dfdcfb6af60407029',1,'GameManager']]],
+  ['resizer',['Resizer',['../class_resizer.html',1,'']]],
+  ['resizer_2ecs',['Resizer.cs',['../_resizer_8cs.html',1,'']]],
+  ['resumebutton',['ResumeButton',['../class_u_i_buttons_script.html#a9873759bac3f7b7cd5b9866c7043de2f',1,'UIButtonsScript']]],
+  ['rotation',['Rotation',['../class_t_m_pro_1_1_examples_1_1_object_spin.html#a45f51bc7820e9bbc91c1806bcaded7fcaf1a42bd417390fc63b030a519624607a',1,'TMPro::Examples::ObjectSpin']]],
+  ['rotationmultiplier',['RotationMultiplier',['../class_t_m_pro_1_1_examples_1_1_vertex_shake_a.html#ab4bd4cb50926999b1a1ac59da8fcf7f1',1,'TMPro::Examples::VertexShakeA']]],
+  ['rotationrange',['RotationRange',['../class_t_m_pro_1_1_examples_1_1_object_spin.html#a802c4f5441264532dd2b379c48dfa012',1,'TMPro::Examples::ObjectSpin']]],
+  ['rotationsmoothing',['RotationSmoothing',['../class_t_m_pro_1_1_examples_1_1_camera_controller.html#a3e2c0e89101934e95f27fa271ff05d14',1,'TMPro::Examples::CameraController']]],
+  ['rotationsmoothingvalue',['RotationSmoothingValue',['../class_t_m_pro_1_1_examples_1_1_camera_controller.html#a004e199cff2c8738cc9584087357444d',1,'TMPro::Examples::CameraController']]],
+  ['rotationspeeds',['RotationSpeeds',['../class_env_map_animator.html#a0e8af1e7df113e4ca34b2ffbb6a603e7',1,'EnvMapAnimator']]],
+  ['run',['Run',['../class_doxy_runner.html#a7458975df0c43d397051f225d6def184',1,'DoxyRunner']]],
+  ['rundoxygen',['RunDoxygen',['../class_doxygen_window.html#a63924417d5b5b7a71570ec9a9ef1ca5e',1,'DoxygenWindow']]],
+  ['runthreadeddoxy',['RunThreadedDoxy',['../class_doxy_runner.html#a0a838402bf7b6661d4a1959c1b57aeb6',1,'DoxyRunner']]]
+];
